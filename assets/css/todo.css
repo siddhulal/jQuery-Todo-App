@@ -1,3 +1,12 @@
-body {
-	background-color: pink;
+
+
+#container{
+	
+	width: 360px;
+	margin: 0 auto;
+	border: 2px solid grey;
+}
+.clicked1{
+	color: grey;
+	text-decoration: line-through;
 }
